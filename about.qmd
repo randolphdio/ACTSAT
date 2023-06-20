@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+About this site
+
+This site provides recommended resources and a study plan for the ACT and SAT.
+
+
+
+```{r}
+1 + 1
+```
