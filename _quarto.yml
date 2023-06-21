@@ -8,7 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - ACT_Resources.qmd
+      - ACT_Resources_Free.qmd
+      - ACT_Resources_Paid.qmd
 
 format:
   html:
