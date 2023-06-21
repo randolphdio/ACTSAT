@@ -13,6 +13,12 @@ editor: visual
 
 4.  [mcelroy  tutoring ACT action plan](https://www.mcelroytutoring.com/blog-post.php?id=1402&title=ACT+Action+Plan%3A+How+to+Study+and+Prepare+for+the+ACT+College+Entrance+Exam)
 
+The biggest resource is access to real ACT past tests ([List of every ACT test](https://mcelroytutoring.com/lower.php?url=44-official-sat-pdfs-and-82-official-act-pdf-practice-tests-free)). You need access to a printer to use these. Alternatively you can buy the red book (the official ACT guide) which has 6 tests.
+
+You want to about 50% of your study time doing timed practice test sections (one of English, Math, Reading & Science). You don't have to do full tests but you must always time yourself for every section.
+
+The prepsharp website ([Every ACT answer key](https://www.prepsharp.com/act-answer-keys/)) and APP provides answers to every ACT test. It also provides bubble sheets that can be printed and virtual proctors so you can do tests in real conditions. After completing a test you must record your result. To do this you can use the google sheet provided by [Brilliant Prep Your-sat-act-study-plan](https://learn.brilliantprep.com/p/your-sat-act-study-plan). You want a record of every question you did not know how to do and go back over them from time-to-time.
+
 ### English
 
 1.  <https://blog.prepscholar.com/the-complete-guide-to-act-grammar-rules>
