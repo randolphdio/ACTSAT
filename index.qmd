@@ -7,5 +7,5 @@ about:
   image-width: 15em
 ---
 
-This website will provide a comprehensive guide to self study for the ACT and provide a list of free and paid for resources
+This website will provide a comprehensive guide to self study for the ACT and provides a list of free and paid for resources along with how to use them to self prepare for the ACT. The plan is tried and tested and was used for a 9 point score improvement (24 to 33).
 
