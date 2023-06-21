@@ -3,6 +3,12 @@ title: "ACT Resources"
 editor: visual
 ---
 
+## Overall (Free)
+
+1.  [List of every ACT test](https://mcelroytutoring.com/lower.php?url=44-official-sat-pdfs-and-82-official-act-pdf-practice-tests-free)
+
+2.  [Every ACT answer key](https://www.prepsharp.com/act-answer-keys/)
+
 ## English
 
 1.  <https://blog.prepscholar.com/the-complete-guide-to-act-grammar-rules>
@@ -15,9 +21,9 @@ editor: visual
 
 1.  [The 52 ACT Math Skills](https://www.youtube.com/playlist?list=PL2AoJMrlAorzqxnsyxAyCrtPjYpTdUiTt)
 
-2.  https://www.scribd.com/document/412819316/ACT-Math-Gauntlet
+2.  [Reason Prep ACT-Math-Gauntlet](https://www.scribd.com/document/412819316/ACT-Math-Gauntlet)
 
-3.  https://netcollegeprep.com/act-prep-khan-academy/
+3.  [How to use Khan Academy for ACT Math](https://netcollegeprep.com/act-prep-khan-academy/)
 
 ## Reading
 
@@ -31,6 +37,6 @@ editor: visual
 
 1.  [The Ultimate ACT Science Guide (Webinar Edition)](https://www.youtube.com/playlist?list=PLOpq-R2ygzqm3ixThIVr4mRxpC3Zga1Kg)
 
-2.  https://masterkeyactsat.com/act-videos/act-science/
+2.  [ACT Test explanations from the author of the Master Key](https://masterkeyactsat.com/act-videos/act-science/)
 
 3.  [Star Tutors ACT Science Tips, Strategies, and the Unique 3-Pass Method](https://www.youtube.com/watch?v=WEYj7KDazvk)
