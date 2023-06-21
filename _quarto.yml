@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "ACT Self Study"
+  title: "ACT Battle Manual"
   navbar:
     left:
       - href: index.qmd
