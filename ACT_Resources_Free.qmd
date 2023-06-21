@@ -27,6 +27,8 @@ The prepsharp website ([Every ACT answer key](https://www.prepsharp.com/act-answ
 
 3.  <https://thecriticalreader.com/complete-sat-grammar-rules/>
 
+English is often seen as the easiest section of the ACT. The timing is not as tough as the other sections. Most of the test is on grammar rules (identifying the need for corrections in the passage). Some of the test is on style. The amount you need to learn is much less than math (the other section where you really need to learn things). The links above provide grammar guides. Potentially this is all you need to learn. By going through practice tests and identifying your mistakes you will improve. There is not too much strategy to boost your score but generally you answer questions as you go along rather than reading the whole passage.
+
 ### Math
 
 1.  [The 52 ACT Math Skills](https://www.youtube.com/playlist?list=PL2AoJMrlAorzqxnsyxAyCrtPjYpTdUiTt)
@@ -38,6 +40,8 @@ The prepsharp website ([Every ACT answer key](https://www.prepsharp.com/act-answ
 4.  [ACT Math Review: 12 Concepts & Strategies You MUST Know For A Perfect 36](https://www.youtube.com/watch?v=cU3Ey6daR8c&t=13s)
 
 5.  [How to use Khan Academy for ACT Math](https://netcollegeprep.com/act-prep-khan-academy/)
+
+Math is a knowledge heavy section. The timing is quite tough but you can use strategy to strategically skip questions. Any strategy is designed to make sure you have time to get to the questions you can answer and guess on the ones you don't know how to do.
 
 ### Reading
 
