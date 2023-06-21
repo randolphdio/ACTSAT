@@ -3,9 +3,7 @@ title: "ACT Resources Free"
 editor: visual
 ---
 
-## Free ACT Resources
-
-### Overall (Free)
+### Overall 
 
 1.  [List of every ACT test](https://mcelroytutoring.com/lower.php?url=44-official-sat-pdfs-and-82-official-act-pdf-practice-tests-free)
 
@@ -15,7 +13,7 @@ editor: visual
 
 4.  [mcelroy  tutoring ACT action plan](https://www.mcelroytutoring.com/blog-post.php?id=1402&title=ACT+Action+Plan%3A+How+to+Study+and+Prepare+for+the+ACT+College+Entrance+Exam)
 
-### English (Free)
+### English 
 
 1.  <https://blog.prepscholar.com/the-complete-guide-to-act-grammar-rules>
 
@@ -23,7 +21,7 @@ editor: visual
 
 3.  <https://thecriticalreader.com/complete-sat-grammar-rules/>
 
-###  Math (Free)
+### Math
 
 1.  [The 52 ACT Math Skills](https://www.youtube.com/playlist?list=PL2AoJMrlAorzqxnsyxAyCrtPjYpTdUiTt)
 
@@ -35,7 +33,7 @@ editor: visual
 
 5.  [How to use Khan Academy for ACT Math](https://netcollegeprep.com/act-prep-khan-academy/)
 
-### Reading (Free)
+### Reading 
 
 1.  [IMPROVE Your ACT READING Score \-- FAST! The 4 Strategy Levels to DOMINATE the ACT Reading Section](https://www.youtube.com/watch?v=-Q5ZW0EK25w)
 
@@ -43,7 +41,7 @@ editor: visual
 
 3.  [How To Get A PERFECT Score On The ACT® Reading Section!!](https://www.youtube.com/watch?v=_O1T_J3lDbA)
 
-## Science (Free)
+## Science 
 
 1.  [The Ultimate ACT Science Guide (Webinar Edition)](https://www.youtube.com/playlist?list=PLOpq-R2ygzqm3ixThIVr4mRxpC3Zga1Kg)
 
