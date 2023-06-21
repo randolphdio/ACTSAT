@@ -1,5 +1,10 @@
 ---
-title: "About this website"
+title: "A Self Study Guide to Crush the ACT"
+image: mypic.png
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
 ---
 
 This website will provide a comprehensive guide to self study for the ACT and provide a list of free and paid for resources
