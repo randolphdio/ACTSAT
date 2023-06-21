@@ -1,8 +1,6 @@
 ---
-title: "ACT SAT Summer Class"
+title: "ACT Self Study"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This website will provide a guide to self study for the ACT and provide a list of free and paid for resources
 
