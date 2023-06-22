@@ -10,6 +10,7 @@ website:
         text: Home
       - ACT_Resources_Free.qmd
       - ACT_Resources_Paid.qmd
+      - The_Plan.qmd
 
 format:
   html:
