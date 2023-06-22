@@ -121,9 +121,9 @@ Use the prepsharp virtual proctor ([link](https://www.prepsharp.com/act-test-tim
 
 -   For **Math**, complete math Gauntlet advanced problems (open book) and review [ACT Math Review: 12 Concepts & Strategies You MUST Know For A Perfect 36](https://www.youtube.com/watch?v=cU3Ey6daR8c&t=13s). Potentially use [Math On The Fly ACT Book](https://www.mathonthefly.com/act-book/) for review of certain topics
 
--   For **Science and Reading,** you might need extra practice tests to fine tune timing strategies. Use the tests in [ACT Test explanations from the author of the Master Key](https://masterkeyactsat.com/act-videos/act-science/). This has the added benefit that you can use the video solutions for the science
+-   For **Science and Reading,** you might need extra practice tests to fine tune timing strategies. Use the tests in [ACT Test explanations from the author of the Master Key](https://masterkeyactsat.com/act-videos/act-science/). This has the added benefit that you can use the video solutions for the scienceFinal Practice test
 
-    ### Final Practice test
+### The Final Practice Test
 
 -   Take a final practice test [ACT official practice test form 2176CPRE](https://www.act.org/content/dam/act/unsecured/documents/Preparing-for-the-ACT.pdf)
 
