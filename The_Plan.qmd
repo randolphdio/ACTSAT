@@ -39,7 +39,11 @@ Use the prepsharp virtual proctor ([link](https://www.prepsharp.com/act-test-tim
 
 -   Review right & wrong answers in detail using the redbook or [ACT Math E23](https://www.youtube.com/playlist?list=PL_tX83dUzqlh7MDFe1LI2Uc-SOLcp5yGA)
 
--   Open book: complete odd number problems (1-140) in the math Gauntlet ([Register for free download ACT Math Gaunlet](https://learn.brilliantprep.com/p/the-vault-sat-act-downloads))
+-   Review [The 3-PASS ACT MATH STRATEGY](https://www.youtube.com/watch?v=i3QcEQ7_2Wk) and use this in subsequent timed practice tests
+
+-   Review [New ACT Calculator Strategies UPDATED](https://www.youtube.com/watch?v=tY1uMGMMQgg&t=297s)
+
+-   Open book: complete odd number problems (1-140) in the math Gauntlet ([Register for free download ACT Math Gaunlet](https://learn.brilliantprep.com/p/the-vault-sat-act-downloads)). Potentially use [ACT Math Prep Playlist](https://www.youtube.com/playlist?list=PL2ix4u6yN0jJJGYr0zQVsXY0JozcIDWP9) to help with topics you are struggling with
 
 -   Complete a timed practice test Math Test 2: June 2017 Code 74C (Code 18MC4)
 
@@ -47,7 +51,7 @@ Use the prepsharp virtual proctor ([link](https://www.prepsharp.com/act-test-tim
 
 -   Review right & wrong answers in detail using the redbook or https://www.cambridgeed.com/wp-content/uploads/2020/10/ACT-18MC4-Navigator.pdf
 
--   Open book: complete even number problems (1-140) in the math Gauntlet ([Register for free download ACT Math Gaunlet](https://learn.brilliantprep.com/p/the-vault-sat-act-downloads))
+-   Open book: complete even number problems (1-140) in the math Gauntlet ([Register for free download ACT Math Gaunlet](https://learn.brilliantprep.com/p/the-vault-sat-act-downloads)). Potentially use Khan academy or [ACT Math Prep Playlist](https://www.youtube.com/playlist?list=PL2ix4u6yN0jJJGYr0zQVsXY0JozcIDWP9) to help with topics you are struggling with.
 
 -   Complete a timed practice test Math Test 3: Test 3: Dec 2017 Code A10
 
@@ -87,6 +91,8 @@ Use the prepsharp virtual proctor ([link](https://www.prepsharp.com/act-test-tim
 
 -   Review [The Ultimate ACT Science Guide (Webinar Edition)](https://www.youtube.com/playlist?list=PLOpq-R2ygzqm3ixThIVr4mRxpC3Zga1Kg)
 
+-   Review [Top ACT Science Tips/Strategies - Managing Time Well](https://www.youtube.com/watch?v=pv5hOBYP-l0)
+
 -   Complete a timed practice test Science Test 2: June 2017 Code 74C (Code 18MC4)
 
 -   Check answers, score, & record in Log
@@ -108,3 +114,19 @@ Use the prepsharp virtual proctor ([link](https://www.prepsharp.com/act-test-tim
 -   Review right & wrong answers in detail
 
 ### Round 2 
+
+-   Round 2 proceeds similar to round 1 using Test 5: July 2020 Code C01 (Code 20MC8) and Test 6: Dec 2019 Code C03 (Code 22MC9) from the red book for the timed section practice tests
+
+-   For English you could potentially use [The Complete Guide to ACT English By Erica Meltzer](https://www.amazon.com/Complete-Guide-ACT-English-Fourth/dp/1733589546/ref=sr_1_7?crid=OYRN4FF0LAKB&keywords=erica+meltzer&qid=1687315662&s=books&sprefix=Erica+%2Cstripbooks%2C104&sr=1-7) if you need extra exercises or review of certain topics.
+
+-   For **Math**, complete math Gauntlet advanced problems (open book) and review [ACT Math Review: 12 Concepts & Strategies You MUST Know For A Perfect 36](https://www.youtube.com/watch?v=cU3Ey6daR8c&t=13s). Potentially use [Math On The Fly ACT Book](https://www.mathonthefly.com/act-book/) for review of certain topics
+
+-   For **Science and Reading,** you might need extra practice tests to fine tune timing strategies. Use the tests in [ACT Test explanations from the author of the Master Key](https://masterkeyactsat.com/act-videos/act-science/). This has the added benefit that you can use the video solutions for the science
+
+    ### Final Practice test
+
+-   Take a final practice test [ACT official practice test form 2176CPRE](https://www.act.org/content/dam/act/unsecured/documents/Preparing-for-the-ACT.pdf)
+
+-   Check answers, score, & record in Log
+
+-   Review right & wrong answers in detail
