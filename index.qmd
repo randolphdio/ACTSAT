@@ -9,7 +9,7 @@ about:
   links:
     - text: Download plan template
       icon: file-earmark-spreadsheet
-      href: ACTSAT/ACT_Study_Plan.xlsx
+      href: https://randolphdio.github.io/ACTSAT/ACT_Study_Plan.xlsx
   id: ppc
 ---
 
